@@ -1,6 +1,7 @@
 🎒 SAC - Save Auto Cloud (v1.0)
 
 *** ENGLISH ***
+
 SAC (Save Auto Cloud) is a lightweight utility designed to synchronize game saves that do not natively support Cloud saves (retro games, emulators, Epic Games, GOG, etc.) between your Desktop, Laptop, and Steam Deck using Dropbox.
 
 ✨ Features
@@ -65,6 +66,7 @@ Get Dropbox for free
 Developed for the gaming community. "Carry your adventures in your SAC."
 
 *** FRENCH ***
+
 SAC (Save Auto Cloud) est un utilitaire léger conçu pour synchroniser vos sauvegardes de jeux vidéo qui ne supportent pas nativement le Cloud (vieux jeux, émulateurs, Epic Games, GOG, etc.) entre votre PC fixe, votre Laptop et votre Steam Deck via Dropbox.
 
 ✨ Fonctionnalités
